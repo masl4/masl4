@@ -57,11 +57,12 @@ My work focuses on applying Artificial Intelligence to real-world problems, espe
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🤖 **[AI-Powered Document Translator](https://github.com/masl4/DocuSmart.git)** | Full-stack web app for document translation, analysis and summarization using AI. Includes authentication, cloud storage, NLP features and automated cleanup system. | Python, Django, Azure AI Services, Azure Blob Storage |
+| 🧠 **[HireLens AI](https://github.com/masl4/hirelens-ai)** | AI-powered resume matcher that compares CVs against job descriptions using local LLMs with Ollama. Generates match scores, skill analysis and tailored improvement suggestions completely offline. | Python, Streamlit, Ollama, Llama 3.2 |
 
 🎯 **Objective:**
 To provide a practical AI-powered tool that helps users like teachers and students to understand and analyze documents more efficiently.
