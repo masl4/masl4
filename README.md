@@ -2,7 +2,7 @@
 
 ## 🎓 **Software Engineering Graduate**
 
-Universidad Politécnica de Madrid (UPM)
+**Universidad Politécnica de Madrid (UPM)**
 
 <sub>🧠 Currently pursuing a Master's in Deep Learning at UPM, specializing in Artificial Intelligence, Machine Learning, and Generative AI.</sub>
 ---
