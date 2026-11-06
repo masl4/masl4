@@ -1,8 +1,7 @@
 # 😊 Welcome to Miguel Ángel Sánchez López's GitHub! 👋
 
 🎓 **Software Engineering** Graduate from **Universidad Politécnica de Madrid (UPM)**
-💻 Focused on Artificial Intelligence, NLP, and Backend Development
-
+🧠 Currently pursuing a Master's in Deep Learning at UPM, with a focus on AI, Machine Learning, and Generative AI.
 ---
 
 ## 🚀 About Me
@@ -18,8 +17,12 @@ My work focuses on applying Artificial Intelligence to real-world problems, espe
 
 ## 📚 Education
 
-**🎓 Software Engineer**<br>
-*Universidad Politécnica de Madrid*
+**🧠 Master's in Deep Learning (Continuing Education) — In Progress (2026–Present)**<br>
+*Universidad Politécnica de Madrid (UPM)*<br>
+Focused on Deep Learning, Neural Networks, Machine Learning, and Applied Generative AI.
+
+**🎓 Software Engineering Graduate**<br>
+*Universidad Politécnica de Madrid (UPM)*
 
 **🧪 Baccalaureate in Sciences**<br>
 *IES Manuel de Falla*
@@ -64,6 +67,7 @@ My work focuses on applying Artificial Intelligence to real-world problems, espe
 | 🤖 **[AI-Powered Document Translator](https://github.com/masl4/DocuSmart.git)** | Full-stack web app for document translation, analysis and summarization using AI. Includes authentication, cloud storage, NLP features and automated cleanup system. | Python, Django, Azure AI Services, Azure Blob Storage |
 | 🧠 **[HireLens AI](https://github.com/masl4/hirelens-ai)** | AI-powered resume matcher that compares CVs against job descriptions using local LLMs with Ollama. Generates match scores, skill analysis and tailored improvement suggestions completely offline. | Python, Streamlit, Ollama, Llama 3.2 |
 | 🔎 **[RAG Portfolio](https://github.com/masl4/rag-portfolio)** | Local Retrieval-Augmented Generation app that allows users to ask questions over custom documents using embeddings, FAISS vector search and a local LLM. Designed as a practical AI portfolio project focused on document retrieval and question answering. | Python, FAISS, Sentence Transformers, Ollama, Llama 3 |
+| 🦖 **[Dinosaur Analytics](https://github.com/masl4/dinosaur-analytics)** | Interactive data visualization dashboard developed during my Master's in Deep Learning at UPM. Explores dinosaur characteristics through dynamic filters, statistical analysis, and interactive charts, complemented by explanatory visualizations. | Python, Dash, Plotly, Pandas, Matplotlib, Seaborn |
 
 ## ⚙️ Tools
 **Languages**  
