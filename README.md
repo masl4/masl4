@@ -1,6 +1,6 @@
 # 😊 Welcome to Miguel Ángel Sánchez López's GitHub! 👋
 
-🎓 Software Engineering Graduate
+## 🎓 **Software Engineering Graduate**
 
 Universidad Politécnica de Madrid (UPM)
 
