@@ -1,6 +1,8 @@
 # 😊 Welcome to Miguel Ángel Sánchez López's GitHub! 👋
 
 🎓 **Software Engineering** Graduate from **Universidad Politécnica de Madrid (UPM)**
+
+
 🧠 Currently pursuing a Master's in Deep Learning at UPM, with a focus on AI, Machine Learning, and Generative AI.
 ---
 
